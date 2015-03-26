@@ -1,5 +1,5 @@
 {
-    "name": "giba/paginatior",
+    "name": "giba/paginator",
     "type": "library",
     "description": "A Generic PHP pagination",
     "keywords": ["pagination"],
