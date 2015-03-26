@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "giba\\paginator\\": "src"
+            "Giba\\": "src/giba/paginator"
         }
     }
 }
