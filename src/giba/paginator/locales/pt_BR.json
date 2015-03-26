@@ -1,9 +1,0 @@
-{
-    "SHOW_RESULTS_MESSAGE" : "Mostrando página <span>%s</span> de <span>%s</span> disponíveis para <span>%s</span> resultados.",
-    "SHOW_NO_RESULTS_MESSAGE" : "Nenhum resultado encontrado para sua pesquisa.",
-    "FIRST" : "Primeiro",
-    "NEXT" : "Próximo",
-    "LAST" : "Último",
-    "PREVIOUS" : "Anterior"
-}
-                
