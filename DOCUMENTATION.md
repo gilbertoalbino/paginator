@@ -110,7 +110,7 @@ $dbh->query('SET NAMES UTF8');
                 <div class="col-md-12">
                     <h2>From Array Width Paginator Translated into Portuguese</h2>
                     <?php
-                    $resultSet = include 'data/colors.php';
+                    $resultSet = include 'vendor/giba/paginator/data/colors.php';
                     $paginator = new Giba\Paginator($resultSet, 'pt_BR');
                     $paginator->setClass('pagination pagination-sm');
                     $paginator->setRange(10);
